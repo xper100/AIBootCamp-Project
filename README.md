@@ -4,4 +4,6 @@
 
 정리가 되지 않아 다른레포로 옮겼습니다.
 
-정리하는 중...=> [프로젝트 목록 이전장소](https://github.com/xper100/Projects)
+정리하는 중... 
+
+[프로젝트 목록 이전장소](https://github.com/xper100/Projects)
