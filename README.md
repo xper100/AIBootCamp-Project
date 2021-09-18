@@ -1,3 +1,7 @@
-# Project Review
+# [과거]프로젝트 저장소
 
 제가 여태 해왔던 프로젝트들입니다.
+
+정리가 되지 않아 다른레포로 옮겼습니다.
+
+[프로젝트 목록 이전장소](https://github.com/xper100/Projects)
